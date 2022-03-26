@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Lucky One
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live website link [Lucky One](https://camera-shop-assingment-8-c83c7e.netlify.app/).
 
 ## Available Scripts
 

@@ -11,10 +11,23 @@ const Products = () => {
       .then((data) => setProducts(data));
   }, []);
   const [cart, setCart] = useState([]);
-  // console.log(cart);
+
   const handleAddToCart = (name) => {
     setCart([...cart, name]);
   };
+
+  const chooseAgain = () => {
+    setCart([])
+  }
+  const chooseOne = () => {
+    const random = cart[Math.floor(Math.random() * cart.length)];
+
+    const element = [random];
+    setCart(element)
+
+  }
+
+
   return (
     <div className="container">
       <div className="products-container">
@@ -29,8 +42,8 @@ const Products = () => {
       <div className="cart-container">
         <Cart cart={cart}></Cart>
         <div className="button-container">
-          <button>Choose 1 camera</button><br />
-          <button>Choose again</button>
+          <button className="choose-button" onClick={chooseOne}>Choose 1 camera</button><br />
+          <button onClick={chooseAgain}>Choose again</button>
 
         </div>
       </div>

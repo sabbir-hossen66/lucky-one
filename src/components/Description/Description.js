@@ -14,6 +14,12 @@ const Description = () => {
             <li>	Can set initial value for child Components.</li>
             <li>	Can not change in child Components.</li>
 
+            <h3>2.How does react works-</h3>
+            <p style={{ color: "purple", fontWeight: "bolder" }}>React is a JavaScript library that creates user interfaces in a predictable and efficient way using declarative code.React works in declarative code.Declarative code describes the end result.but doesn't act as a step by step guide of how to do it.</p>
+
+
+
+            <br /><br />
         </div>
     );
 };

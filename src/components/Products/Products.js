@@ -19,7 +19,7 @@ const Products = () => {
   const chooseAgain = () => {
     setCart([])
   }
-  const chooseOne = () => {
+  const chooseCamera = () => {
     const random = cart[Math.floor(Math.random() * cart.length)];
 
     const element = [random];
@@ -42,7 +42,7 @@ const Products = () => {
       <div className="cart-container">
         <Cart cart={cart}></Cart>
         <div className="button-container">
-          <button className="choose-button" onClick={chooseOne}>Choose 1 camera</button><br />
+          <button onClick={chooseCamera}>Choose 1 camera</button><br />
           <button onClick={chooseAgain}>Choose again</button>
 
         </div>

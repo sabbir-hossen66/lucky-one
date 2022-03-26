@@ -29,10 +29,11 @@
     flex-direction: column;
     position: sticky;
      top: 200px;
-    
+}
    
   
-}
+
+/* mobile responsive setup */
 @media only screen and (max-width: 600px) {
     .products-container{
        

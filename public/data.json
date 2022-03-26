@@ -6,73 +6,73 @@
         "price": 299
     },
     {
-        "id": 1,
+        "id": 2,
         "image": "./images/pic-3.jpg",
         "name": "Nikon Coolpix",
         "price": 399
     },
     {
-        "id": 1,
+        "id": 3,
         "image": "./images/last camera.jpg",
         "name": "Aberg Best 18 mega pixels HD",
         "price": 199
     },
     {
-        "id": 1,
+        "id": 4,
         "image": "./images/mini camera.jpg",
         "name": "Nikon Coolpix L340 20",
         "price": 599
     },
     {
-        "id": 1,
+        "id": 5,
         "image": "./images/pic-5.jpg",
         "name": "KINGEAR KG002 2.7 inch",
         "price": 250
     },
     {
-        "id": 1,
+        "id": 6,
         "image": "./images/pic-yes.webp",
         "name": "KINGEAR KG0016 2.7",
         "price": 320
     },
     {
-        "id": 1,
+        "id": 7,
         "image": "./images/pic-7.jpg",
         "name": "Digital Camera,KINGEAR",
         "price": 410
     },
     {
-        "id": 1,
+        "id": 8,
         "image": "./images/pic-4.jpg",
         "name": "Film cameras.",
         "price": 543
     },
     {
-        "id": 1,
+        "id": 9,
         "image": "./images/pic-6.jpg",
         "name": "360 cameras.",
         "price": 478
     },
     {
-        "id": 1,
+        "id": 10,
         "image": "./images/pic-7.jpg",
         "name": "Action cameras.",
         "price": 652
     },
     {
-        "id": 1,
+        "id": 11,
         "image": "./images/pic-11.jpg",
         "name": "Smartphone cameras.",
         "price": 747
     },
     {
-        "id": 1,
+        "id": 12,
         "image": "./images/pic-12.jpg",
         "name": "Mirrorless cameras.",
         "price": 205
     },
     {
-        "id": 1,
+        "id": 13,
         "image": "./images/soto camera.jpg",
         "name": "Compact digital camera.",
         "price": 405

@@ -1,6 +1,6 @@
 # Lucky One
 
-Live website link [Lucky One](https://camera-shop-assingment-8-c83c7e.netlify.app/).
+Live website link [Camera Company](https://camera-shop-assingment-8-c83c7e.netlify.app/).
 
 ## Available Scripts
 

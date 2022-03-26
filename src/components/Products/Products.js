@@ -28,9 +28,11 @@ const Products = () => {
       </div>
       <div className="cart-container">
         <Cart cart={cart}></Cart>
-        <button>Choose 1 camera</button><br /><br />
-        <button>Choose again</button>
+        <div className="button-container">
+          <button>Choose 1 camera</button><br />
+          <button>Choose again</button>
 
+        </div>
       </div>
 
     </div>
